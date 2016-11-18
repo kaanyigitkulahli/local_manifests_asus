@@ -11,7 +11,7 @@
          <!-- Common -->
         <project path="device/asus/msm8916-common" name ="kaankulahli/android_device_asus_msm8916-common" remote="git" revision="aic" />
         <!-- Vendor -->
-        <project path="vendor/asus" name ="kaankulahli/android_vendor_asus_msm8916-common" remote="git" revision="cm-13.0" />
+        <project path="vendor/asus/msm8916-common" name ="kaankulahli/android_vendor_asus_msm8916-common" remote="git" revision="cm-13.0" />
         <!-- QCOM addons -->
         <project path="device/qcom/common" name ="CyanogenMod/android_device_qcom_common" remote="git" revision="cm-14.1" />
        
