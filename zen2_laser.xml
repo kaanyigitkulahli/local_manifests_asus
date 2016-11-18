@@ -5,11 +5,11 @@
                         fetch="git://github.com" />
 
         <!-- Device tree -->
-        <project path="device/asus/Z00RD" name ="kaankulahli/android_device_asus_Z00RD" remote="git" revision="aicp-n7.1" />
+        <project path="device/asus/Z00RD" name ="kaankulahli/android_device_asus_Z00RD" remote="git" revision="cm-13.0" />
         <!-- Kernel -->
-        <project path="kernel/asus/Z00RD" name ="kaankulahli/android_kernel_asus_Z00RD" remote="git" revision="aicp-n7.1" />
+        <project path="kernel/asus/Z00RD" name ="kaankulahli/android_kernel_asus_Z00RD" remote="git" revision="cm-14.1" />
          <!-- Common -->
-        <project path="device/asus/msm8916-common" name ="kaankulahli/android_device_asus_msm8916-common" remote="git" revision="aic" />
+        <project path="device/asus/msm8916-common" name ="kaankulahli/android_device_asus_msm8916-common" remote="git" revision="cm-14.1" />
         <!-- Vendor -->
         <project path="vendor/asus/msm8916-common" name ="kaankulahli/android_vendor_asus_msm8916-common" remote="git" revision="cm-13.0" />
         <!-- QCOM addons -->
