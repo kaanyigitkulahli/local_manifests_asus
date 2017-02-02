@@ -5,13 +5,13 @@
                         fetch="git://github.com" />
 
         <!-- Device tree -->
-        <project path="device/asus/Z00ED" name ="Rygebin/android_device_asus_Z00ED" remote="git" revision="cm-13.0" />
+        <project path="device/asus/Z00ED" name ="Rygebin/android_device_asus_Z00ED" remote="git" revision="cm-14.1" />
         <!-- Kernel -->
-        <project path="kernel/asus/msm8916" name ="Rygebin/android_kernel_msm8916" remote="git" revision="cm-14.1" />
+        <project path="kernel/asus/msm8916" name ="Rygebin/android_kernel_asus_msm8916" remote="git" revision="cm-14.1" />
          <!-- Common -->
         <project path="device/asus/msm8916-common" name ="Rygebin/android_device_asus_msm8916-common" remote="git" revision="cm-14.1" />
         <!-- Vendor -->
-        <project path="vendor/asus" name ="Rygebin/proprietary_vendor_asus" remote="git" revision="cm-13.0" />
+        <project path="vendor/asus" name ="Rygebin/proprietary_vendor_asus" remote="git" revision="cm-14.1" />
         <!-- QCOM addons -->
         <project path="device/qcom/common" name ="LineageOS/android_device_qcom_common" remote="git" revision="cm-14.1" />
        
